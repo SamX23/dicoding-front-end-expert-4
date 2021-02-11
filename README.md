@@ -1,5 +1,7 @@
 ## Dicoding practice material
 
-### Image Compression
-### Gif to video
+### 4 -Image Compression
 
+### 5 - Gif to video
+
+### 6 - Responsive Image
