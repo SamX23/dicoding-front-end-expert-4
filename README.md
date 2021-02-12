@@ -1,4 +1,4 @@
-## Dicoding practice material
+## Dicoding mini practice material
 
 ### 4 -Image Compression
 
@@ -9,3 +9,5 @@
 ### 7 - Next Gen Image Format
 
 ### 8 - Lazy Load
+
+### 9 - Bundle Analyzer
